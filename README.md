@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ashwinrajendran2003
+- 👋 Hi, I’m @ashwin
 - 👀 I’m interested in Front-end web development
 - 🌱 I’m currently pursuing B.Tech CSE
 
